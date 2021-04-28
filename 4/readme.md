@@ -1,3 +1,3 @@
-Nama : Aria Setiawan
-NIM  : 1811500087
-Kelompok : TI6J
+Nama : Aria Setiawan<br>
+NIM  : 1811500087<br>
+Kelompok : TI6J<br>
